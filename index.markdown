@@ -4,5 +4,14 @@
 
 layout: home
 ---
+  <center>
+  
   # AVAnnotate
+  
+  <br>
+  ---
+  <br>
+  
   ### A review by [Trent Wintermeier](www.trentwintermeier.com) for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy
+
+</center>
