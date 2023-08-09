@@ -3,5 +3,7 @@ layout: default
 title: Title Page
 permalink: title-page
 ---
-<!-- Add an essay or interpretive material below this line,
-using HTML or markdown.  Do not modify this file above this line -->
+<center>
+  # AVAnnotate
+  ### A review by [Trent Wintermeier](www.trentwintermeier.com) for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy
+</center>
