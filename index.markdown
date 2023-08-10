@@ -6,9 +6,9 @@ layout: home
 ---
 
  
-  # AVAnnotate
+**AVAnnotate**
  
-  ### A review by [Trent Wintermeier](www.trentwintermeier.com) for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*
+**A review by [Trent Wintermeier](www.trentwintermeier.com) for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy***
   
 
 
