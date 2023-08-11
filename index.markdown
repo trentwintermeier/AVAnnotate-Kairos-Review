@@ -24,7 +24,7 @@ A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos
 <br><br>
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Context pages</a></li>
 <br><br>
-<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Collaborative potential</a></li>
+<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Collaboration</a></li>
 <br><br>
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Conclusion</a></li>
 <br><br>
