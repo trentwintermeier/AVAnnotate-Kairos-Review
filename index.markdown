@@ -4,10 +4,13 @@
 
 layout: default-nonav
 ---
-
+<p align="center">
+ 
 # **Listening for Sustainable Access: A Review of *AVAnnotate***
  
 A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*
+
+</p>
 
 ---
 
