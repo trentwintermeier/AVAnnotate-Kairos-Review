@@ -14,7 +14,7 @@ A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos
 ---
 
 <head>
-<link rel="stylesheet" type="text/css" href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/4eb8b8811a6d57139584226abe86b5f9aba9356a/style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 <p>
