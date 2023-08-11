@@ -37,7 +37,6 @@ Part of responsibly navigating such an intersection involves embracing the goals
 Not only this, but the above format also serves to illustrate the major intervention I believe AVAnnotate offers: attunement of users to a collaborative act of listening as a rhetorical response to the concerns of audio artifact accessibility. In allowing users to annotate audio and create digital exhibits, AVAnnotate teaches users, as a collective, to actively listen to and use sound as a method for developing access to knowledge and information which is frequently difficult to locate. I find in this review that the software’s infrastructure, collaborative potential, exercise of annotating, audio file hosting, and context curation develop this major intervention. 
       </div>
     </td>
-</p>
 
 
 
