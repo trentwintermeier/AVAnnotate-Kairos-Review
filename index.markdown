@@ -10,16 +10,6 @@ layout: default-nonav
 A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*
 
 ---
-p {
-font-family: 'georgia', sans-serif; 
-}
-
-<style>
-table, th, td {
-  border:none;
-  border-collapse: collapse;
-}
-</style>
 
 <p>
 <table style="width:100%">
