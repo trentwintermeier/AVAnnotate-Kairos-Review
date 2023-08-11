@@ -2,7 +2,7 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
-    "label": { "en": [ "AVAnnotate: A Review" ] },
+    "label": { "en": [ "Listening for Sustainable Access: A Review of AVAnnotate" ] },
     "summary": { "en": [ "A software review by Trent Wintermeier for Kairos: A Journal of Rhetoric, Technology, and Pedagogy" ] },
     "items": [
     ]
