@@ -11,13 +11,20 @@ A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos
 
 ---
 
-<body>
-<div style="text-align: justify">
+
 
 <table style="width:100%">
-  <tr>
-   <td> <td width="30%">
+   <td> <td width="10%">
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Audio Ingestion</a></li>
+<br><br>
+<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Annotation process</a></li>
+<br><br>
+<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Context pages</a></li>
+<br><br>
+<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Collaborative potential</a></li>
+<br><br>
+<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Conclusion</a></li>
+<br><br>
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/transcript.md">Transcript</a></li>
    </td>
     <td>
@@ -29,7 +36,7 @@ Part of responsibly navigating such an intersection involves embracing the goals
 Not only this, but the above format also serves to illustrate the major intervention I believe AVAnnotate offers: attunement of users to a collaborative act of listening as a rhetorical response to the concerns of audio artifact accessibility. In allowing users to annotate audio and create digital exhibits, AVAnnotate teaches users, as a collective, to actively listen to and use sound as a method for developing access to knowledge and information which is frequently difficult to locate. I find in this review that the software’s infrastructure, collaborative potential, exercise of annotating, audio file hosting, and context curation develop this major intervention. 
       </div>
     </td>
-  </tr>
-</table>
-</body>
+
+
+
 
