@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Audio ingestion" ] },
+    "homepage": [
+      {
+        "id": "https://archive.org/details/n-ih-35-service-rd",
+        "type": "Text",
+        "label": { "en": [ "Audio ingestion" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://archive.org/",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 227.0,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia600505.us.archive.org/31/items/n-ih-35-service-rd/N%20IH-35%20Service%20Rd.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 227.0
+                },
+                "target": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
