@@ -18,7 +18,7 @@ table, th, td {
 }
 </style>
 
-<table style="width:100%"; boarder=none;>
+<table style="width:100%"; border=none;>
    <td> <td width="15%">
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Audio Ingestion</a></li>
 <br><br>
