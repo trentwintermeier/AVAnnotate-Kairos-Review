@@ -5,12 +5,12 @@
 layout: default-nonav
 ---
 <p align="center">
-<h1>
-**Listening for Sustainable Access: A Review of *AVAnnotate***
-</h1>
- <h2>
+<h2>
+Listening for Sustainable Access: A Review of AVAnnotate
+</h2>
+ <h5>
 A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*
- </h2>h2>
+ </h5>
 </p>
 
 ---
