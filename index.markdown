@@ -4,11 +4,11 @@
 
 layout: home
 ---
-**AVAnnotate**
+**Listening for Sustainable Access: A Review of *AVAnnotate***
  
-**A review by [Trent Wintermeier](www.trentwintermeier.com) for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy***
+A review by [Trent Wintermeier](www.trentwintermeier.com) for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*
 
------
+---
 
 This software review of AVAnnotate takes a unique form and approach to the traditional and familiar reviews of academic material. As a Graduate Research Assistant (GRA) for the AVAnnotate project, I engage with the affordances of both the software’s focus on audio material and Karios’s publication format to speak on how my professional experiences inform my opinion of AVAnnotate’s intervention into conversations about rhetoric, technology, and pedagogy. So to not attempt to separate my professional affiliation from my personal review, I draw on how my responsibilities during my year of working on the project have developed a unique perspective on the potential for the software in research in rhetoric and writing. In no way is this review separate from my GRA position, and I understand this overlap to offer insight into where, how, and why this software may be employed.
 
