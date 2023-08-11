@@ -11,15 +11,8 @@ A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos
 
 ---
 
-<style>
-table, th, td {
-  border:none;
-  border-collapse: collapse;
-}
-</style>
-
 <table style="width:100%"; border:none;>
-   <td> <td width="20%">
+   <td> <td width="15%">
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Audio Ingestion</a></li>
 <br><br>
 <li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Annotation process</a></li>
