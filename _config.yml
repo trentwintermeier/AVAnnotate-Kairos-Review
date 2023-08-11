@@ -28,9 +28,9 @@ github_username:  trentwintermeier
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-tactile-theme
 
-remote_theme: "hipstas/AudiAnnotateTheme"
+
+theme: tactile
 
 collections:
   items:
