@@ -9,7 +9,7 @@ layout: default-nonav
 Listening for Sustainable Access: A Review of AVAnnotate
 </h2>
 
-A review by <a href="www.trentwintermeier.com">Trent Wintermeier</a> for *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*
+A review by <a href="https://www.trentwintermeier.com">Trent Wintermeier</a>
 </p>
 
 ---
