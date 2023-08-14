@@ -23,13 +23,13 @@ A review by <a href="https://www.trentwintermeier.com">Trent Wintermeier</a>
    <td> <td width="15%">
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion">Audio</a></li>
 <br><br>
-<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Annotation</a></li>
+<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a></li>
 <br><br>
-<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Context</a></li>
+<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context">Context</a></li>
 <br><br>
-<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Collaboration</a></li>
+<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration">Collaboration</a></li>
 <br><br>
-<li><a href="https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/9b183827854007e98f3cd596708a785fe52aafd2/pages/audio-ingestion.md">Conclusion</a></li>
+<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/conclusion">Conclusion</a></li>
 <br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/transcript">Transcript</a></li>
    </td>
