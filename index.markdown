@@ -23,7 +23,7 @@ A review by <a href="https://www.trentwintermeier.com">Trent Wintermeier</a>
    <td> <td width="15%">
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure</a></li>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio-ingestion">Audio</a></li>
+<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a></li>
 <br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a></li>
 <br><br>
