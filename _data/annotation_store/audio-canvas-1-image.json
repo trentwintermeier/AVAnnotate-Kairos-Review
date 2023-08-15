@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/audio-canvas-1-image.json",
+  "type": "AnnotationPage",
+  "label": "Image",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-canvas-1-image-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/gh-pages/Screen%20Shot%202023-08-15%20at%201.31.09%20PM.png?raw=true",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "53.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-canvas-1-image-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "https://github.com/trentwintermeier/AVAnnotate-Kairos-Review/blob/gh-pages/Screen%20Shot%202023-08-15%20at%201.29.39%20PM.png?raw=true",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "65.0"
+        }
+      }
+    }
+  ]
+}
