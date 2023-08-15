@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: default-nonav
 title: Infrastructure
 manifest_name: infrastructure
 permalink: infrastructure
