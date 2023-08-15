@@ -6,7 +6,7 @@ layout: default-nonav
 ---
 <p align="center">
 <h2>
-Listening for Sustainable Access: A Review of AVAnnotate
+AVAnnotate
 </h2>
 
 A review by <a href="https://www.trentwintermeier.com">Trent Wintermeier</a>
