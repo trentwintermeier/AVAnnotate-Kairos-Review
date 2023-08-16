@@ -1,0 +1,74 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/collaboration-canvas-1-gra-context.json",
+  "type": "AnnotationPage",
+  "label": "GRA Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "collaboration-canvas-1-gra-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "My assistance with a large collaborative project for AVAnnotate and SpokenWeb has provided my experience of the software's ability to promote collaboration. As a use case for AVAnnotate, such a collaborative project was a successful test of the potential for students and peers to work together to create a large exhibit.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "13.0,36.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "collaboration-canvas-1-gra-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Researchers on the AVAnnotate project worked on documentation for creating a collaborative exhibit with AVAnnotate, and after reviewing it, there's complex procedures, but it is possible for users to create a similar collaborative exhibit. Being involved in the creation of this collaborative project has undoubtably informed by conception of AVAnnotate as a tool for collaboration, and I understand the software to prioritize this fact.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "50.0,64.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "collaboration-canvas-1-gra-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Part of my assistance with AVAnnotate's collaborative digital edition project involved troubleshooting issues with authors. This included working with an author's images and videos uploaded to a contextual page. In such case, the author shared their repository with me via Github, and I was able to make changes in AVAnnotate's interfact. In only minutes, I could fix the author's project, they could see my changes on their computer, and then they could confirm that my work was acceptable. In this way, I understand AVAnnotate to be intrinsically collaborative.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "141.0,165.0"
+        }
+      }
+    }
+  ]
+}
