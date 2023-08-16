@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/collaboration-canvas-1-image.json",
+  "type": "AnnotationPage",
+  "label": "Image",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "collaboration-canvas-1-image-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<img src=\"assets/images/forkphoto.jpg\" width=\"700\" height=\"300\">",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "40.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "collaboration-canvas-1-image-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<img src=\"assets/images/iiifmanifestphoto.jpg\" width=\"700\" height=\"300\">",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "192.0"
+        }
+      }
+    }
+  ]
+}
