@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/context-canvas-1-gra-context.json",
+  "type": "AnnotationPage",
+  "label": "GRA Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-gra-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I mention that Markdown is a shift from these word processors because integrating images and other audio, and also altering the structure of the page, isn't as simple as searching through a toolbar. I've worked with Markdown as a GRA for AVAnnotate, so my sustained use of this language has led formed my opinion of this practice as important to the construction of an exhibit.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "104.0,109.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-gra-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Ultimately, after using AVAnnotate in classrooms, during an internship, and in workshops, I understand the software as, primarily, a teaching tool. The \"Create Pages\" function offers many pedagogical opportunities when working with the sustainability and accessibility of knowledge in audio material. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.0,152.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-gra-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Coding the infrastructure which will support access to an audio file's information is part of what informs the future of this material and, at the least, it's ability to be found in digital spaces. During my time as a GRA for AVAnnotate, reading pages separate from the audio has been helpful for learning about users' contributions into specific conversations and the goals for their exhibit.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "205.0,217.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-gra-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Although I mention sound, archival practice, and digital technologies, AVAnnotate works in classrooms focused on visual objects and film, too--which is just one other case for the software. Part of my role on AVAnnotate was to test visual material in the Aviary viewer, and this experience has emphasized AVAnnotate's potential for visual artifacts.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "231.0,242.0"
+        }
+      }
+    }
+  ]
+}

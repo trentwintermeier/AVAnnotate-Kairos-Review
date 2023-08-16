@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/context-canvas-1-information.json",
+  "type": "AnnotationPage",
+  "label": "Information",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-information-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The \"Create Page\" function doesn't have to be used as a space for contextual information. My role on the project, and as a contributor to a larger collaborative project, has informed my use of these pages. While I've found them to be most helpful for providing context, they may also be used as space for discussing different audio artifacts, providing images, or separate reference pages or biographies for associated authors. This flexibility is allows AVAnnotate to appeal to a wide variety of users, which makes it an essential tool across disciplines.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.0,26.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-information-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "While Markdown is required, users of AVAnnotate are able to past text from word processors into GitHub, which doesn't require knowledge of Markdown. But, this doesn't capture the possibilities for the \"Create Pages\" functionality as a teaching tool. The use of \"Create Pages\" changes based on what users want to get out of the software.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "82.0,93.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-information-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "These pages offer insight into the choices that the project creator makes in developing annotations. Just as the process of annotating is meaningful, too is creating pages that explain a user's decisions and provide space for reflection and transparency.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "120.0,128.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "context-canvas-1-information-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "My understanding of the \"Create Pages\" function stems from AVAnnotate being a digital humanities project. The human work it takes to promote access and conceptually configure these exhibits, to me, is part of what makes the software's intervention meaninful. Included in this work is coding pages in Markdown.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "172.0,192.0"
+        }
+      }
+    }
+  ]
+}
