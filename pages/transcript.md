@@ -3,6 +3,10 @@ layout: default
 title: Transcript
 permalink: transcript
 ---
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
 Listening for Sustainable Access: A Review of AVAnnotate
 
 Introduction
