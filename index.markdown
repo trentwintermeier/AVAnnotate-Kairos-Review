@@ -11,9 +11,9 @@ table, td, th {
 </style>
 
 <p align="center">
-<h2>
+<h1>
 AVAnnotate
-</h2>
+</h1>
 
 A review by <a href="https://www.trentwintermeier.com">Trent Wintermeier</a>
 </p>
