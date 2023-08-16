@@ -4,6 +4,11 @@
 
 layout: default-nonav
 ---
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
 <p align="center">
 <h2>
