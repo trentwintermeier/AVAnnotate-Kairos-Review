@@ -73,5 +73,5 @@ AVAnnotate functions best as a tool for teaching users how to use digital techno
 ## References
 
 Clement, T., Brumfield, B., & Brumfield, S. (2022). The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video. DHQ: Digital Humanities Quarterly, 16(2).
-</br>
+</br></br>
 International Image Interoperability Framework. "Home." <a href="https://iiif.io/">
