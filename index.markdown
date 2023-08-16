@@ -4,6 +4,11 @@
 
 layout: default-nonav
 ---
+<!DOCTYPE html >
+<html lang="en">
+<head>
+<meta charset="utf-8">
+
 <p align="center">
 <h2>
 AVAnnotate
