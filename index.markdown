@@ -4,10 +4,11 @@
 
 layout: default-nonav
 ---
-<!DOCTYPE html >
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
+</head>
 
 <p align="center">
 <h2>
