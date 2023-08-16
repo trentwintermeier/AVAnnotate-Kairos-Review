@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/context-canvas-1-information.json",
-            "label": {
-              "none": ["Information"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/context-canvas-1-gra-context.json",
             "label": {
               "none": ["GRA Context"]
