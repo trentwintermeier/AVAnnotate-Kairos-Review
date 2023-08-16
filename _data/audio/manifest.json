@@ -5,7 +5,7 @@
     "label": { "en": [ "Audio" ] },
     "homepage": [
       {
-        "id": "https://archive.org/details/n-ih-35-service-rd",
+        "id": "https://archive.org/details/robinson-ave-4",
         "type": "Text",
         "label": { "en": [ "Audio" ] },
         "format": "text/html"
@@ -22,7 +22,7 @@
       {
         "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas",
         "type": "Canvas",
-        "duration": 227.0,
+        "duration": 263.0,
         "items": [
           {
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/paintings",
@@ -33,10 +33,10 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://ia600505.us.archive.org/31/items/n-ih-35-service-rd/N%20IH-35%20Service%20Rd.mp3",
+                  "id": "https://ia902705.us.archive.org/22/items/robinson-ave-4/Robinson%20Ave%204.mp3",
                   "type": "Sound",
                   "format": "audio/mp3",
-                    "duration": 227.0
+                    "duration": 263.0
                 },
                 "target": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas"
               }
