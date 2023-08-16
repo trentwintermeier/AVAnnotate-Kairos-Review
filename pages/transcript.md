@@ -68,8 +68,7 @@ The last collaborative function of AVAnnotate that I think is critical is the us
 ## Conclusion
 
 AVAnnotate functions best as a tool for teaching users how to use digital technologies for creation of rhetorical interventions into concerns about sustaining access to knowledge in audio artifacts at risk of obsolescence. At the software’s infrastructural core, it is devoted to supporting engagement with these artifacts in a way that teaches users how to become better listeners who are attuned to how their own practices affect the communication of essential information. And while this does require a small learning curve for users and enhancements to the software on AVAnnotate’s end, there are still many unique and fruitful opportunities that this tool provides for a variety of learning communities. In this conception of AVAnnotate, the software is not just a route to creating digital exhibits of audio annotations; AVAnnotate is an opportunity to become more responsible users of sound. By promoting collaborative listening devoted to the sustainable access of knowledge, AVAnnotate offers a rhetorical resource for artifactual degradation foregrounded by our digital age. 
-</br>
-
+<br>
 ## References
 
 Clement, T., Brumfield, B., & Brumfield, S. (2022). The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video. DHQ: Digital Humanities Quarterly, 16(2).
