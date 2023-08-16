@@ -7,13 +7,4 @@ body{
 h1,h2,h3,h4,h5,h6{
   font-size: 20pt;
 }
-table {
-    border-collapse: collapse;
-}
-td, table{
-    border: none;
-}
-table, tr, td {
-    border: none;
-}
-<td class="noBorder">
+
