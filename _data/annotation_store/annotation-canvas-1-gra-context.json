@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/annotation-canvas-1-gra-context.json",
+  "type": "AnnotationPage",
+  "label": "GRA Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotation-canvas-1-gra-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Part of my job as a GRA for AVAnnotate was to create a different Sheets template which utilizes the hh:mm:ss format, instead of a total seconds format. In my opinion, I prefer the hh:mm:ss format, as this is easier to use and is more widly used when timestamping. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "79.0,84.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotation-canvas-1-gra-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "While working as a GRA for AVAnnotate, I've been able to interact with many different users who have created different exhibits, and how each individual annotates is very different. This experience has informed how I understand the annotations in column C to be used for a variety of goals. Therefore, AVAnnotate allows for individual users to integrate their conceptualization of annotation into an exhibit with flexibility and creativeness.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "180.0,181.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotation-canvas-1-gra-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Regarding teaching and sound, I've contributed a project to the SpokenWeb Digital Anthology entitled \"Annotating a Duality of Space in Muriel Rukeyser's The Speed of Darkness,\" which discusses the use of sound and AVAnnotate in more detail. My participation and assistance with this project has informed my opinion of AVAnnotate as a teaching tool focused on the sonic experience of audio artifacts. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "257.0,269.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotation-canvas-1-gra-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The \"Index' column can be used across multiple audio files in a single project. This allows for users to communicate and find information across large individual or collaborative projects. This feature was tested and fully integrated during my GRAship, and I've found it to be a helpful addition for certain exhibits.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "284.0,289.0"
+        }
+      }
+    }
+  ]
+}
