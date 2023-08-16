@@ -28,17 +28,17 @@ A review by <a href="https://www.trentwintermeier.com">Trent Wintermeier</a>
 <table style="width:100%">
    <td> <td width="15%">
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure</a></li>
-<br>
+<br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a></li>
-<br>
+<br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a></li>
-<br>
+<br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context">Context</a></li>
-<br>
+<br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration">Collaboration</a></li>
-<br>
+<br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/conclusion">Conclusion</a></li>
-<br>
+<br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/transcript">Transcript</a></li>
    </td>
     <td>
