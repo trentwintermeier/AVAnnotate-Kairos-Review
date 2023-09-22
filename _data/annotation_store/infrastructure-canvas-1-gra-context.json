@@ -1,0 +1,132 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/infrastructure-canvas-1-gra-context.json",
+  "type": "AnnotationPage",
+  "label": "GRA Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "infrastructure-canvas-1-gra-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Part of my role on the AVAnnotate project is to help with workshop by teaching participants the workflow. This step, logging in with a GitHub account, is the first step to building a project. As the project will be hosted in that user's GitHub account via a repository, it's essential that the user has a GitHub account to begin using the software.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "48.0,52.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "infrastructure-canvas-1-gra-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I assisted with the development of a collaborative digital edition of annotated audio artifacts, a project of AVAnnotate and SpokenWeb. Since AVAnnotate uses Jekyll and GitHub, we were able to fork individual projects from multiple repositories and create a larger project. My role on this project has informed my opinion of AVAnnotate's infrastructure as a tool for sustaining collaborative projects. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "73.0,95.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "infrastructure-canvas-1-gra-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "While I was working on the project as a GRA, AVAnnotate's developers and researchers integrated and tested the use of Aviary, which allows for users to view video in a project exhibit. I tested the Aviary player option and also reated a IIIF manifest with a video file, which, in my opinion, is just as simple as creating or importing a manifest of an audio file. This makes AVAnnotate simple for classrooms and users who are interested in creating project with annotations of both audio and video.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "131.0,164.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "infrastructure-canvas-1-gra-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "After helping with workshops on AVAnnotate and teaching individual users about Jekyll, GitHub Pages, and IIIF, I understand these components to be essential to the software's function as a tool for sustainable access. By bringing separate tools together, AVAnnotate is a lighter and more stable application. Although it relies on other tools to function, as long as they are sufficient, AVAnnotate will have less software issues than a heavier version of the same tool.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "168.0,175.0"
+        }
+      }
+    }
+  ]
+}
