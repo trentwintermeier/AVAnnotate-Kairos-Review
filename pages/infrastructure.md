@@ -13,13 +13,12 @@ using HTML or markdown.  Do not modify this file above this line -->
 </head>
 
 <p>
-<table style="width:50%">
+<table style="width:100%">
    <td>
 AVAnnotate allows users to create digital exhibits of annotations for audio materials, which promotes access to the information associated with these files. According to Dr. Tanya Clement and Brumfield labs, the developers of the project and software, AVAnnotate is built using Jekyll and GitHub Pages. This “architecture,” which works with minimal computing principles, contributes to goals of sustainable access (Clement & Brumfield Labs, 2022). In other terms, the software intervenes in issues of artifact access by developing a software that creates static pages which can exist separately from AVAnnotate.
 <br><br>
 When a user creates a project with AVAnnotate, they log in with their GitHub account, which is required to begin using the software. The user’s GitHub account is vital to the success of sustainable access as the static site will be created via a GitHub repository and hosted via GitHub Pages. This process allows for the creation of a static site which can exist without AVAnnotate. Part of the benefit of using Jekyll and GitHub is the ability for these projects to out-live the software; exhibits of audio annotations exist on their own in individual user accounts. So, in short, even if AVAnnotate doesn’t exist one day, users will always be able to host their annotations—allowing for permanent access to the information of the audio files in question.
    </td>
-   <table style="width:50%">
     <td>
      Another major component of access that the software foregrounds is the use of International Image Interoperability Framework (IIIF) manifests, an essential part to the creation of a digital exhibit. “IIIF is a set of open standards for delivering high-quality, attributed digital objects online at scale” (International Image Interoperability Framework) IIIF’s website states, meaning that these manifests contain information about any audio file and promote a standardized way of engaging with this information. Early on in the process of creating a digital exhibit, users will be asked to “import” or “create” a IIIF manifest, as this step allows for an exhibit’s audio to be ingested into Universal Viewer (which is a player for the audio). While understanding what a IIIF manifest is can be confusing, AVAnnotate makes it simple to create, use, and disseminate this information in a short link, promoting wide access to not only audio files but the annotations associated with them.
 <br><br>
