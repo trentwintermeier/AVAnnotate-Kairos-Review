@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/annotation-canvas-1-image.json",
+  "type": "AnnotationPage",
+  "label": "Image",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "annotation-canvas-1-image-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<figure><img src=\"assets/images/annotationtemplatephoto.jpg\" width=\"800\" height=\"500\" alt=\"Screenshot of AVAnnotate annotations template in Google Sheets with columns organized as mentioned in the webtext\"><figcaption>AVAnnotate annotations template in Google Sheets. Right click to open image file.</figure>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "84.0"
+        }
+      }
+    }
+  ]
+}
