@@ -1,0 +1,101 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/audio-canvas-1-information.json",
+  "type": "AnnotationPage",
+  "label": "Information",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-canvas-1-information-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The issues involving access to audio are not only applicable to artifacts found in LAMS; institutions or private organizations which host collections oftentimes don't make audio available to download or have a correct URL available in the browser. This makes perfect sense as these institutions/organizations want to maintain ownership of this audio. However, this causes major issues for AVAnnotate, and I've found this to deter use of the software. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "39.0,52.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-canvas-1-information-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In my personal experience, not having the option to listen to certain audio--or being able to listen to audio but only in a reading room--significantly impacts the information being communicated through AVAnnotate's software. User's aren't able to fully exercise the potential of AVAnnotate when audio artifacts aren't able to be downloaded, listened to repeatedly, and presentable via Universal Viewer in a project exhibit. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "57.0,62.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "audio-canvas-1-information-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Not having access to an audio file, but having access to the information in the file, is a recurring issue that AVAnnotate is built to help solve. This is because the use of IIIF manifests within LAMs can fix the issue of file access but maintain ownership and rights to the material. As of now, beyond integration of IIIF in to more LAMs, there is no other way to solve issues of file access other than communicating with holding institutions to (hopefully) get access to files. And even then, these institutions may not accept these files being uploaded online to the static pages AVAnnotate builds for users. I see what AVAnnotate is hoping to accomplish, but for now, it's still difficult to work with audio provided by certain institutions. ",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "161.0,184.0"
+        }
+      }
+    }
+  ]
+}
