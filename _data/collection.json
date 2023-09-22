@@ -1,4 +1,5 @@
 {
+   "text": "my text goes here",
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://example.com/collection.json",
     "type": "Collection",
