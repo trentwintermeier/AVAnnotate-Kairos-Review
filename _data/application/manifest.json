@@ -2,12 +2,12 @@
     "@context": "http://iiif.io/api/presentation/3/context.json",
     "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
     "type": "Manifest",
-    "label": { "en": [ "Application" ] },
+    "label": { "en": [ "Application 1" ] },
     "homepage": [
       {
         "id": "https://archive.org/download/sraa-1991-cassette-of-shortwave-ids-interval-signals-and-numbers-stations",
         "type": "Text",
-        "label": { "en": [ "Application" ] },
+        "label": { "en": [ "Application 1" ] },
         "format": "text/html"
       }
     ],

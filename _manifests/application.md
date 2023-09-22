@@ -1,6 +1,6 @@
 ---
 layout: manifest
-title: Application
+title: Application 1
 manifest_name: application
 
 ---
