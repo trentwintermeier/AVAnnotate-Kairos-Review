@@ -1,0 +1,70 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-2--canvas-1-student-group-5.json",
+  "type": "AnnotationPage",
+  "label": "Student Group 5",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "shortwave-radio-audio-archive-2--canvas-1-student-group-5-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"red\"> Radio broadcast is interrupted by the feedback being received. The news is nearly unintelligible due to the feedback overpowering the voice of the broadcaster. While shortwave is a dependable transmitter of information, this information is obscured by the features of such dependency. </font>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "55.0,71.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "shortwave-radio-audio-archive-2--canvas-1-student-group-5-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"red\"> Radio broadcast is interrupted by the feedback being received. The news is nearly unintelligible due to the feedback overpowering the voice of the broadcaster. While shortwave is a dependable transmitter of information, this information is obscured by the features of such dependency. </font>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-2-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-2-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "55.0,71.0"
+        }
+      }
+    }
+  ]
+}
