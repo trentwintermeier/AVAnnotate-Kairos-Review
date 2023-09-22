@@ -23,6 +23,32 @@
         "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application-2/canvas-1/canvas",
         "type": "Canvas",
         "duration": 32.56,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-2-canvas-1-student-group-6.json",
+            "label": {
+              "none": ["Student Group 6"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-2-canvas-1-student-group-4.json",
+            "label": {
+              "none": ["Student Group 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-2-canvas-1-student-group-5.json",
+            "label": {
+              "none": ["Student Group 5"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application-2/canvas-1/paintings",
