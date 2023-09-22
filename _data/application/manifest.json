@@ -27,14 +27,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-1.json",
-            "label": {
-              "none": ["Student Group 1"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-2.json",
             "label": {
               "none": ["Student Group 2"]
