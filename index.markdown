@@ -21,6 +21,16 @@ A review by <a href="https://www.trentwintermeier.com" target="_blank">Trent Win
 ---
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VE0VSZDWME"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VE0VSZDWME');
+</script>
+
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
