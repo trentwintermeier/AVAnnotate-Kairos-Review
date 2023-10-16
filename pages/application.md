@@ -7,7 +7,7 @@ item_b: shortwave-radio-audio-archive-2-
 
 ---
 <head>
-<!-- Google tag (gtag.js) -->
+  <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VE0VSZDWME"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -16,7 +16,8 @@ item_b: shortwave-radio-audio-archive-2-
 
   gtag('config', 'G-VE0VSZDWME');
 </script>
-  
+
+<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
 Integrating AVAnnotate into the classroom facilitates collaborative writing and oratorical pedagogical objectives. Beyond what I’ve described in prior sections, AVAnnotate offers a “Comparison” function which allows users to place side-by-side two artifacts, such as a single or two audio recordings, but this can also be any artifact with a IIIF manifest. I find this function immediately useful as a pedagogical tool for Rhetoric and Composition instructors and scholars.
