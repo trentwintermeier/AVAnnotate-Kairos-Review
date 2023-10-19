@@ -10,13 +10,13 @@ table, td, th {
 }
 </style>
 
-<p align="center">
+<center>
 <h1>
 AVAnnotate
 </h1>
 
 A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" target="_blank">Trent Wintermeier</a>
-</p>
+</center>
 
 ---
 
