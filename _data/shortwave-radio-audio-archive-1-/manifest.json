@@ -23,6 +23,32 @@
         "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/canvas-1/canvas",
         "type": "Canvas",
         "duration": 32.57,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-3.json",
+            "label": {
+              "none": ["Student Group 3"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-1.json",
+            "label": {
+              "none": ["Student Group 1"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-2.json",
+            "label": {
+              "none": ["Student Group 2"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/canvas-1/paintings",
