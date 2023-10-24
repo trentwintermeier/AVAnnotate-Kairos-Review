@@ -20,7 +20,7 @@ item_b: shortwave-radio-audio-archive-2-
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-Integrating AVAnnotate into the classroom facilitates collaborative writing and oratorical pedagogical objectives. Beyond what I’ve described in prior sections, AVAnnotate offers a “Comparison” function which allows users to place side-by-side two artifacts, such as a single or two audio recordings, but this can also be any artifact with a IIIF manifest. I find this function immediately useful as a pedagogical tool for Rhetoric and Composition instructors and scholars.
+Integrating AVAnnotate into the classroom meets pedagogical objectives concerning audio and visual material. Beyond what I’ve described in prior sections, AVAnnotate offers a “Comparison” function which allows users to place side-by-side two artifacts, such as a single or two audio recordings, but this can also be any artifact with a IIIF manifest. I find this function immediately useful as a pedagogical tool for Rhetoric and Composition instructors and scholars.
 
 In this section, I illustrate how AVAnnotate may be used for rhetorical analysis— specifically, the goal being to develop an argument which considers if feedback and other qualities of shortwave radio are significant and meaningful features of this type of audio recording. Such an assignment requires students to consider the purpose and history of shortwave radio, how the quality of such recordings is a product but also an essential attribute of such recordings, how these waves travel, the reliability of this form of communication, and what transmission means.
 
