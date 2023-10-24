@@ -17,6 +17,8 @@ permalink: transcript
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
+<div style="text-align: justify">
+  
 ## Introduction
 
 This software review of AVAnnotate takes a unique form and approach to the traditional and familiar reviews of academic material. As a Graduate Research Assistant (GRA) for the AVAnnotate project, I engage with the affordances of both the software’s focus on audio material and Karios’s publication format to speak on how my professional experiences inform my opinion of AVAnnotate’s intervention into conversations about rhetoric, technology, and pedagogy. So to not attempt to separate my professional affiliation from my personal review, I draw on how my responsibilities during my year of working on the project have developed a unique perspective on the potential for the software in research in rhetoric and writing. In no way is this review separate from my GRA position, and I understand this overlap to offer insight into where, how, and why this software may be employed.
@@ -88,6 +90,8 @@ The exhibit below uses the comparison feature to depict the same shortwave radio
 AVAnnotate functions best as a tool for teaching users how to use digital technologies for creation of rhetorical interventions into concerns about sustaining access to knowledge in audio artifacts at risk of obsolescence. At the software’s infrastructural core, it is devoted to supporting engagement with these artifacts in a way that teaches users how to become better listeners who are attuned to how their own practices affect the communication of essential information. And while this does require a small learning curve for users and enhancements to the software on AVAnnotate’s end, there are still many unique and fruitful opportunities that this tool provides for a variety of learning communities. In this conception of AVAnnotate, the software is not just a route to creating digital exhibits of audio annotations; AVAnnotate is an opportunity to become more responsible users of sound. By promoting collaborative listening devoted to the sustainable access of knowledge, AVAnnotate offers a rhetorical resource for artifactual degradation foregrounded by our digital age. 
 <br>
 ## References
+
+</div>
 
 Clement, T., Brumfield, B., & Brumfield, S. (2022). The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video. DHQ: Digital Humanities Quarterly, 16(2).
 <br><br>
