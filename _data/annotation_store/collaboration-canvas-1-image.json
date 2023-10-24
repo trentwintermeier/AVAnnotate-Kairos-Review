@@ -14,7 +14,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<figure><img src=\"assets/images/forkphoto.jpg\" width=\"800\" height=\"500\" alt=\"Screenshot of 'Watch', 'Fork', and 'Star' buttons in GitHub repository.><figcaption>Fork button in GitHub repository. Right click to open image file.</figcaption>",
+        "value": "<figure><img src=\"assets/images/forkphoto.jpg\" width=\"800\" height=\"500\" alt=\"Screenshot of 'Watch', 'Fork', and 'Star' buttons in GitHub repository.><figcaption>Fork button in GitHub repository. Right click to open image file.</figcaption></figure>",
         "format": "text/plain",
         "purpose": "commenting"
       },
@@ -45,7 +45,7 @@
       ],
       "body": {
         "type": "TextualBody",
-        "value": "<figure><img src=\"assets/images/iiifmanifestphoto.jpg\" width=\"800\" height=\"500\" alt=\"IIIF manifest of \"Collaboration\" titled section of this webtext.\"><figcaption>IIIF manifest of \"Collaboration\" section audio. Right click to open image file.</figcaption>",
+        "value": "<figure><img src=\"assets/images/iiifmanifestphoto.jpg\" width=\"800\" height=\"500\" alt=\"IIIF manifest of \"Collaboration\" titled section of this webtext.\"><figcaption>IIIF manifest of \"Collaboration\" section audio. Right click to open image file.</figcaption></figure>",
         "format": "text/plain",
         "purpose": "commenting"
       },
