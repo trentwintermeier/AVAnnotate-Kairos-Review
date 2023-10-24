@@ -23,6 +23,32 @@
         "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/canvas",
         "type": "Canvas",
         "duration": 246.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/collaboration-canvas-1-gra-context.json",
+            "label": {
+              "none": ["GRA Context"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/collaboration-canvas-1-image.json",
+            "label": {
+              "none": ["Image"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/collaboration-canvas-1-information.json",
+            "label": {
+              "none": ["Information"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration/canvas-1/paintings",
