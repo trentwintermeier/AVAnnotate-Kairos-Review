@@ -33,7 +33,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<button onclick="myFunction()">Transcript</button>
+<button onclick="myFunction()">Transcript show/hide</button>
 
 <div id="myDIV">
   
