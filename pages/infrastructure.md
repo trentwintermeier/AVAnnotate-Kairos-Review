@@ -19,25 +19,7 @@ using HTML or markdown.  Do not modify this file above this line -->
   gtag('config', 'G-VE0VSZDWME');
 </script>
 
-<script>
-  function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
-
-<link rel="stylesheet" type="text/css" href="style.css">
-</head>
-
-<button onclick="myFunction()">Transcript show/hide</button>
-
-<div id="myDIV">
-  
-  <div style="text-align: justify">
+<div id="myDIV" style="display: none; text-align: justify">
 AVAnnotate allows users to create digital exhibits of annotations for audio materials, which promotes access to the information associated with these files. According to Dr. Tanya Clement and Brumfield labs, the developers of the project and software, AVAnnotate is built using Jekyll and GitHub Pages. This “architecture,” which works with minimal computing principles, contributes to goals of sustainable access (Clement & Brumfield Labs, 2022). In other terms, the software intervenes in issues of artifact access by developing a software that creates static pages which can exist separately from AVAnnotate.
 <br><br>
 When a user creates a project with AVAnnotate, they log in with their GitHub account, which is required to begin using the software. The user’s GitHub account is vital to the success of sustainable access as the static site will be created via a GitHub repository and hosted via GitHub Pages. This process allows for the creation of a static site which can exist without AVAnnotate. Part of the benefit of using Jekyll and GitHub is the ability for these projects to out-live the software; exhibits of audio annotations exist on their own in individual user accounts. So, in short, even if AVAnnotate doesn’t exist one day, users will always be able to host their annotations—allowing for permanent access to the information of the audio files in question.
@@ -48,3 +30,19 @@ After working with AVAnnotate, the use of Jekyll, GitHub Pages, and IIIF are, to
   <br><br>
 </div>
 
+<button onclick="myFunction()">Transcript</button>
+
+<script>
+        function myFunction() {
+            var x = document.getElementById("myDIV");
+            if (x.style.display === "none" || x.style.display === "") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
