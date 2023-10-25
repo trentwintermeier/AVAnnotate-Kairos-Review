@@ -18,6 +18,22 @@ using HTML or markdown.  Do not modify this file above this line -->
 
   gtag('config', 'G-VE0VSZDWME');
 </script>
+
+<div id="myDIV" style="display: none;">This text is hidden by default.</div>
+
+<button onclick="myFunction()">Toggle Text</button>
+
+<script>
+        function myFunction() {
+            var x = document.getElementById("myDIV");
+            if (x.style.display === "none" || x.style.display === "") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+</script>
+    
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
