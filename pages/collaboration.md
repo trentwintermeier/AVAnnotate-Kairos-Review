@@ -19,6 +19,8 @@ using HTML or markdown.  Do not modify this file above this line -->
   gtag('config', 'G-VE0VSZDWME');
 </script>
 
+<button onclick="myFunction()">Transcript</button>
+
 <script>
         function myFunction() {
             var x = document.getElementById("myDIV");
