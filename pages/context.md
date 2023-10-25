@@ -41,6 +41,5 @@ For such a reason, I believe that AVAnnotate is an essential tool for teaching r
 <br><br>
 </div>
 
-
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
