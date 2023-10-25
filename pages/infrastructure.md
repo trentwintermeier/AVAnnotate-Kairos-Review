@@ -33,13 +33,11 @@ using HTML or markdown.  Do not modify this file above this line -->
 <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 
-<button onclick="myFunction()">Click Me</button>
+<button onclick="myFunction()">Transcript</button>
 
 <div id="myDIV">
-  This is my DIV element.
-</div>
-
-<div style="text-align: justify">
+  
+  <div style="text-align: justify">
 AVAnnotate allows users to create digital exhibits of annotations for audio materials, which promotes access to the information associated with these files. According to Dr. Tanya Clement and Brumfield labs, the developers of the project and software, AVAnnotate is built using Jekyll and GitHub Pages. This “architecture,” which works with minimal computing principles, contributes to goals of sustainable access (Clement & Brumfield Labs, 2022). In other terms, the software intervenes in issues of artifact access by developing a software that creates static pages which can exist separately from AVAnnotate.
 <br><br>
 When a user creates a project with AVAnnotate, they log in with their GitHub account, which is required to begin using the software. The user’s GitHub account is vital to the success of sustainable access as the static site will be created via a GitHub repository and hosted via GitHub Pages. This process allows for the creation of a static site which can exist without AVAnnotate. Part of the benefit of using Jekyll and GitHub is the ability for these projects to out-live the software; exhibits of audio annotations exist on their own in individual user accounts. So, in short, even if AVAnnotate doesn’t exist one day, users will always be able to host their annotations—allowing for permanent access to the information of the audio files in question.
@@ -49,3 +47,4 @@ Another major component of access that the software foregrounds is the use of In
 After working with AVAnnotate, the use of Jekyll, GitHub Pages, and IIIF are, to me, the most essential contributors to sustainable access that the software offers. Other softwares, tools, and applications frequently require a very complex and “heavy” infrastructure, which inhibits the sustainability of projects and exhibits created in these platforms. These types of projects include large storage systems that miss out on the benefits of sites such as GitHub, which allow for repositories and data to be retained by the user. AVAnnotate does not store any of this data or information; in fact, the software doesn’t allow for storage or hosting of audio files or an interface to create annotations, which I will explain in more detail in later sections. This sort of distributed core that the software offers maintains both the goals and functionality of AVAnnotate as a project devoted to sustainability and access.
   <br><br>
 </div>
+
