@@ -38,6 +38,7 @@ In this section, I illustrate how AVAnnotate may be used for rhetorical analysis
   <br>
 The exhibit below uses the comparison feature to depict the same shortwave radio recording. Each recording has multiple sets of annotations in a variety of colors. Red annotations argue that the sonic features of shortwave radio are not significant and, in fact, are inhibitive to transmissions. Green annotations argue that the same sonic features are significant as they construct meaningful transmissions.
 <br><br>
+  
 </div>
 
 <link rel="stylesheet" type="text/css" href="style.css">
