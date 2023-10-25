@@ -20,14 +20,11 @@ using HTML or markdown.  Do not modify this file above this line -->
 </script>
 
 <script>
-        function myFunction() {
-            var x = document.getElementById("myDIV");
-            if (x.style.display === "none" || x.style.display === "") {
-                x.style.display = "block";
-            } else {
-                x.style.display = "none";
-            }
-        }
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-VE0VSZDWME');
 </script>
 
 <div id="myDIV" style="display: none; text-align: justify">
