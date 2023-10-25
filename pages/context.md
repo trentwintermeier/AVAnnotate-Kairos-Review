@@ -19,6 +19,8 @@ using HTML or markdown.  Do not modify this file above this line -->
   gtag('config', 'G-VE0VSZDWME');
 </script>
 
+<button onclick="myFunction()">Transcript</button>
+
 <script>
         function myFunction() {
             var x = document.getElementById("myDIV");
@@ -29,7 +31,6 @@ using HTML or markdown.  Do not modify this file above this line -->
             }
         }
 </script>
-
 <div id="myDIV" style="display: none; text-align: justify">
 The “difficult work” that I have just described in terms of organizing columns and annotations is supported by the separate pages that teach users the importance of publishing digital annotations. The purpose of this “Create Page” function is to offer space for contextual information, such as an essay and images. In sum, this function supports further engagement with any artifact as a knowledge and meaning making practice. I really enjoy the integration in these pages in AVAnnotate because it asks users to purposefully situate their goal of working with sound and audio. These pages teach users to ask “why these annotations” and “why this audio” in creative and unique ways. This is especially helpful for students working with audio and sound as it exceeds mere listening and then annotating that experience; these pages require deeper engagement with the intersection of listening and annotating, and what this means in the larger context of the project. Creating contextual pages is more than supplementary, in this sense—it prompts users to think, consider, and reflect in a meaningful way.
 <br><br>
