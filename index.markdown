@@ -36,12 +36,12 @@ A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" t
 
 <p>
 <table style="width:100%">
-   <td> <td width="100%">
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure</a></li>
+   <td> <td width="15%">
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure</a></li>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a></li>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a></li>
 <br><br>
 <li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context">Context</a></li>
 <br><br>
