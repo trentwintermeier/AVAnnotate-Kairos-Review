@@ -37,21 +37,21 @@ A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" t
 <p>
 <table style="width:100%">
    <td> <td width="15%">
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotation">Annotation</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context">Context</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context">Context</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration">Collaboration</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/collaboration">Collaboration</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application">Application</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application">Application</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/conclusion">Conclusion</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/conclusion">Conclusion</a>
 <br><br>
-<li><a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/transcript">Transcript</a></li>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/transcript">Transcript</a>
    </td>
     <td>
       <div style="text-align: justify">
