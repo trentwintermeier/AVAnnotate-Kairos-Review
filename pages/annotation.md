@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Annotation
 manifest_name: annotation
 permalink: annotation
