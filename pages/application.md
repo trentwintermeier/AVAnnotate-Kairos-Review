@@ -19,9 +19,9 @@ using HTML or markdown.  Do not modify this file above this line -->
   gtag('config', 'G-VE0VSZDWME');
 </script>
 
-<center>
+<div style="text-align: left">
  <button onclick="myFunction()">Transcript</button>
-</center>
+</div>
 
 <script>
         function myFunction() {
