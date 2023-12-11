@@ -9,9 +9,7 @@ item_b: shortwave-radio-audio-archive-2-
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <head>
- <button onclick="myFunction()">Transcript</button>
   <!-- Google tag (gtag.js) -->
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VE0VSZDWME"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -20,6 +18,10 @@ using HTML or markdown.  Do not modify this file above this line -->
 
   gtag('config', 'G-VE0VSZDWME');
 </script>
+
+<center>
+ <button onclick="myFunction()">Transcript</button>
+</center>
 
 <script>
         function myFunction() {
