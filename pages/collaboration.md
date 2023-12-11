@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Collaboration
 manifest_name: collaboration
 permalink: collaboration

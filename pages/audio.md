@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Audio
 manifest_name: audio
 permalink: audio

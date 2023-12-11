@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Shortwave Radio Audio Archive (1)
 manifest_name: shortwave-radio-audio-archive-1-
 permalink: shortwave-radio-audio-archive-1-

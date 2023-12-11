@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Context
 manifest_name: context
 permalink: context

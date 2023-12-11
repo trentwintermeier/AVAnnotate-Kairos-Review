@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Infrastructure
 manifest_name: infrastructure
 permalink: infrastructure
