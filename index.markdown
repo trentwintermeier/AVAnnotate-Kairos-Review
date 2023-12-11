@@ -37,7 +37,7 @@ A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" t
 <p>
 <table style="width:100%">
    <td> <td width="15%">
-<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">_Infrastructure_</a>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">*Infrastructure*</a>
 <br><br><br>
 <a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a>
 <br><br><br>
