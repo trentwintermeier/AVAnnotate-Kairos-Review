@@ -36,8 +36,8 @@ A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" t
 
 <p>
 <table style="width:100%">
-   <td> <td width="15%">
-<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">*Infrastructure*</a>
+   <td> <td width="15%"> <strong>
+<a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/infrastructure">Infrastructure*</a>
 <br><br><br>
 <a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/audio">Audio</a>
 <br><br><br>
@@ -52,7 +52,7 @@ A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" t
 <a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/conclusion">Conclusion</a>
 <br><br><br>
 <a href="https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/transcript">Transcript</a>
-   </td>
+ </strong>  </td>
     <td>
       <div style="text-align: justify">
      This software review of AVAnnotate takes a unique form and approach to the traditional reviews of academic material. AVAnnotate is a digital tool, created by Dr. Tanya Clement and Brumfield labs, which allows users to create exhibits of annotated audio artifacts. As a Graduate Research Assistant (GRA) for the AVAnnotate project, I engage with the affordances of both the software’s focus on audio material and Kairos’s publication format to speak on how my professional experiences inform my opinion of AVAnnotate’s intervention into conversations about rhetoric, technology, and pedagogy. So to not attempt to separate my professional affiliation from my personal review, I draw on how my responsibilities during my year of working on the project have developed a unique perspective on the potential for the software in research in rhetoric and writing. In no way is this review separate from my GRA position, and I understand this overlap to offer insight into where, how, and why this software may be employed.
