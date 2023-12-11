@@ -19,6 +19,19 @@ using HTML or markdown.  Do not modify this file above this line -->
   gtag('config', 'G-VE0VSZDWME');
 </script>
 
+<button onclick="myFunction()">Transcript</button>
+
+<script>
+        function myFunction() {
+            var x = document.getElementById("myDIV");
+            if (x.style.display === "none" || x.style.display === "") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
+</script>
+
 <div id="myDIV" style="display: none; text-align: justify">
 Integrating AVAnnotate into the classroom meets pedagogical objectives concerning audio and visual material. Beyond what I’ve described in prior sections, AVAnnotate offers a “Comparison” function which allows users to place side-by-side two artifacts, such as a single or two audio recordings, but this can also be any artifact with a IIIF manifest. I find this function immediately useful as a pedagogical tool for Rhetoric and Composition instructors and scholars.
   <br> <br>
