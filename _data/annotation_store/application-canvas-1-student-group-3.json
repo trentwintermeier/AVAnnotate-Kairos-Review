@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-3.json",
+  "type": "AnnotationPage",
+  "label": "Student Group 3",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "application-canvas-1-student-group-3-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\"> The transmission foregrounds the feedback as the broadcasts are in the background. The perceptual order of sonic qualities allow users to practice different forms of attunement that aren't normally available in other forms of listening.</font>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "455.0,505.0"
+        }
+      }
+    }
+  ]
+}

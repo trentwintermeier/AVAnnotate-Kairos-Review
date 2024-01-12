@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-1.json",
+  "type": "AnnotationPage",
+  "label": "Student Group 1",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "application-canvas-1-student-group-1-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"green\"> Movement between broadcasts--which are separated by a pause, a silence-- illustrates the active engagement short wave radio provides to both the user and the listener. What we hear is made through interaction with these broadcast frequencies. The silences in short wave radio exhibit listening as a practice of making meaning of, with, and from signals. </font>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1395.0,1412.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-4.json",
+  "type": "AnnotationPage",
+  "label": "Student Group 4",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "application-canvas-1-student-group-4-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"red\"> High frequency sound is emitted that disrupts the experience of listening to the music. This noise causes a visceral reaction that may even lead those listening at a high volume to completely overlook and ignore the broadcast. Not only is this aesthetically disruptive but, in some cases, the noise may negatively impact the auditory system.</font>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "653.0,660.0"
+        }
+      }
+    }
+  ]
+}
