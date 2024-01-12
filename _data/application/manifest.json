@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
+    "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/range/r0",
     "type": "Range",
     "label": { "en": [ "Application" ] },
     "items": [
