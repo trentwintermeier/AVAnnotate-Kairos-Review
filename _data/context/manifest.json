@@ -18,6 +18,19 @@
         "label": { "en": [ "Internet Archive" ] }
       }
     ],
+    "structures": [
+      {
+        "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/range/r0",
+        "type": "Range",
+        "label": { "en": "Default"},
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",
+            "type": "Canvas"
+          }
+        ]
+      }
+    ],
     "items": [
       {
         "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/context/canvas-1/canvas",

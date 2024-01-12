@@ -1,1 +1,102 @@
-{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json","type":"Manifest","label":{"en":["Application 1"]},"homepage":[{"id":"https://archive.org/download/sraa-1991-cassette-of-shortwave-ids-interval-signals-and-numbers-stations","type":"Text","label":{"en":["Application 1"]},"format":"text/html"}],"provider":[{"id":"https://archive.org/","type":"Agent","label":{"en":["Internet Archive"]}}],"items":[{"id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas","type":"Canvas","duration":32.56,"annotations":[{"type":"AnnotationPage","id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-1.json","label":{"none":["Student Group 1"]}},{"type":"AnnotationPage","id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-2.json","label":{"none":["Student Group 2"]}},{"type":"AnnotationPage","id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-3.json","label":{"none":["Student Group 3"]}}],"items":[{"id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/paintings","type":"AnnotationPage","items":[{"id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/painting","type":"Annotation","motivation":"painting","body":{"id":"https://ia601602.us.archive.org/31/items/sraa-1991-cassette-of-shortwave-ids-interval-signals-and-numbers-stations/KW-IDs%201991_1.mp3","type":"Sound","format":"audio/mp3","duration":32.56},"target":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas"}]}]}]}
+{
+   "@context":"http://iiif.io/api/presentation/3/context.json",
+   "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
+   "type":"Manifest",
+   "label":{
+      "en":[
+         "Application 1"
+      ]
+   },
+   "homepage":[
+      {
+         "id":"https://archive.org/download/sraa-1991-cassette-of-shortwave-ids-interval-signals-and-numbers-stations",
+         "type":"Text",
+         "label":{
+            "en":[
+               "Application 1"
+            ]
+         },
+         "format":"text/html"
+      }
+   ],
+   "provider":[
+      {
+         "id":"https://archive.org/",
+         "type":"Agent",
+         "label":{
+            "en":[
+               "Internet Archive"
+            ]
+         }
+      }
+   ],
+    "structures": [
+      {
+        "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/range/r0",
+        "type": "Range",
+        "label": { "en": "Default"},
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas",
+            "type": "Canvas"
+          }
+        ]
+      }
+    ],
+   "items":[
+      {
+         "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas",
+         "type":"Canvas",
+         "duration":32.56,
+         "annotations":[
+            {
+               "type":"AnnotationPage",
+               "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-1.json",
+               "label":{
+                  "none":[
+                     "Student Group 1"
+                  ]
+               }
+            },
+            {
+               "type":"AnnotationPage",
+               "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-2.json",
+               "label":{
+                  "none":[
+                     "Student Group 2"
+                  ]
+               }
+            },
+            {
+               "type":"AnnotationPage",
+               "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/application-canvas-1-student-group-3.json",
+               "label":{
+                  "none":[
+                     "Student Group 3"
+                  ]
+               }
+            }
+         ],
+         "items":[
+            {
+               "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/paintings",
+               "type":"AnnotationPage",
+               "items":[
+                  {
+                     "id":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/painting",
+                     "type":"Annotation",
+                     "motivation":"painting",
+                     "body":{
+                        "id":"https://ia601602.us.archive.org/31/items/sraa-1991-cassette-of-shortwave-ids-interval-signals-and-numbers-stations/KW-IDs%201991_1.mp3",
+                        "type":"Sound",
+                        "format":"audio/mp3",
+                        "duration":32.56
+                     },
+                     "target":"https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
