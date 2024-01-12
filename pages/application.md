@@ -6,7 +6,6 @@ permalink: application
 external_manifest_url: 
 
 ---
-
 <center>
   <h2>
   Application
