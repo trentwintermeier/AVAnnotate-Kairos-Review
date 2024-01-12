@@ -15,7 +15,7 @@ table, td, th {
 AVAnnotate
 </h1>
 
-A review by <a href="https://trentwintermeier.github.io/trentjohnw/index.html" target="_blank">Trent Wintermeier</a>
+A review by <a href="https://trentwintermeier.github.io/tjwintermeier" target="_blank">Trent Wintermeier</a>
 </center>
 
 ---
