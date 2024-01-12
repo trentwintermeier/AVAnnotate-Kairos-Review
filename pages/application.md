@@ -6,6 +6,12 @@ item_a: shortwave-radio-audio-archive-1-
 item_b: shortwave-radio-audio-archive-2-
 
 ---
+
+<center>
+  <h2>
+  Application
+  </h2>
+</center>
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
 <head>
@@ -39,7 +45,7 @@ Integrating AVAnnotate into the classroom meets pedagogical objectives concernin
   <br> <br>
 In this section, I illustrate how AVAnnotate may be used for analysis— specifically, the goal being to develop an argument which considers if feedback and other qualities of shortwave radio are significant and meaningful features of this type of audio recording. Such an assignment requires students to consider the purpose and history of shortwave radio, how the quality of such recordings is a product but also an essential attribute of such recordings, how these waves travel, the reliability of this form of communication, and what transmission means.
 <br> <br>
-The exhibit below uses the comparison feature to depict the same shortwave radio recording. Each recording has multiple sets of annotations in a variety of colors. Green annotations (left) argue that the sonic features of shortwave radio are significant as they construct meaningful transmissions. Red annotations (right) argue that the same sonic features are not significant and, in fact, are inhibitive to transmissions.
+Below are multiple sets of annotations represented in two colors: green and red. Green annotations argue that the sonic features of shortwave radio are significant as they construct meaningful transmissions. Red annotations argue that the same sonic features are not significant and, in fact, are inhibitive to transmissions. In the layer column, the example student groups are broken down by number (1-6). 
   <br><br>
 </div>
 
