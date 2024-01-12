@@ -37,6 +37,10 @@ using HTML or markdown.  Do not modify this file above this line -->
         }
 </script>
 
+<link rel="stylesheet" type="text/css" href="style.css">
+
+</head>
+
 <div id="myDIV" style="display: none; text-align: justify">
 Integrating AVAnnotate into the classroom meets pedagogical objectives for instructors working with audio and visual material. In this section, I illustrate how AVAnnotate may be used for analysis— specifically, the goal being to develop an argument which considers if feedback and other qualities of shortwave radio are significant and meaningful features of this type of audio recording. Such an assignment requires students to consider the purpose and history of shortwave radio, how the quality of such recordings is a product but also an essential attribute of such recordings, how these waves travel, the reliability of this form of communication, and what transmission means.
 
