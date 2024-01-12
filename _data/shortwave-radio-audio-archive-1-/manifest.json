@@ -18,19 +18,6 @@
         "label": { "en": [ "Internet Archive" ] }
       }
     ],
-    "structures": [
-      {
-        "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/range/r0",
-        "type": "Range",
-        "label": { "en": "Default"},
-        "items": [
-          {
-            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/canvas-1/canvas",
-            "type": "Canvas"
-          }
-        ]
-      }
-    ],
     "items": [
       {
         "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/canvas-1/canvas",
@@ -56,9 +43,33 @@
           ,
           {
             "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-4.json",
+            "label": {
+              "none": ["Student Group 4"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-6.json",
+            "label": {
+              "none": ["Student Group 6"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-2.json",
             "label": {
               "none": ["Student Group 2"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-5.json",
+            "label": {
+              "none": ["Student Group 5"]
             }
           }
         ],

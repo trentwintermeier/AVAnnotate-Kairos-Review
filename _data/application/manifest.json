@@ -1,0 +1,33 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Application" ] },
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 32.57,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia601602.us.archive.org/31/items/sraa-1991-cassette-of-shortwave-ids-interval-signals-and-numbers-stations/KW-IDs%201991_1.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 32.57
+                },
+                "target": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/application/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

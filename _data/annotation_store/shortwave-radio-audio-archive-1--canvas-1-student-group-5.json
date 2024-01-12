@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/annotations/shortwave-radio-audio-archive-1--canvas-1-student-group-5.json",
+  "type": "AnnotationPage",
+  "label": "Student Group 5",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "shortwave-radio-audio-archive-1--canvas-1-student-group-5-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<font color=\"red\"> Multiple broadcasts being picked up and filtered through almost simultaneously. Short wave radio's frequent inability to accurately dial-in to and maintain broadcasts decreases opportunities for sustained intervention. This also decreases the significance and meaning a listener locates in the interaction with this form of radio. </font>",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://trentwintermeier.github.io/AVAnnotate-Kairos-Review/shortwave-radio-audio-archive-1-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1530.0,1540.0"
+        }
+      }
+    }
+  ]
+}
