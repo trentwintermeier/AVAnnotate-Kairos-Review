@@ -3,6 +3,13 @@ layout: default
 title: Transcript
 permalink: transcript
 ---
+
+<center>
+  <h2>
+  Transcript
+  </h2>
+</center>
+
 <head>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-VE0VSZDWME"></script>
