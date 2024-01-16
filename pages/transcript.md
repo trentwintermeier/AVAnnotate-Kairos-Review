@@ -139,6 +139,8 @@ AVAnnotate functions best as a tool for teaching users how to use digital techno
 
 <div style="text-align: justify">
 Thank you to editors Ashanka Kumari and Jonathan Marine for the helpful feedback and suggestions. Huge thanks to Ben and Sara Brumfield for the last-minute help with the Universal Viewer and for answering all of my endless questions! And thanks to Casey Boyle for looking over an early version of this review. 
+</div>
+<br>
 
 ## References
 
